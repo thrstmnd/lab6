@@ -1,6 +1,6 @@
 def zadacha1():
     strana={"russia" : "moscow", "japan" : "tokyo", "china" : "peking", "france" : "paris", "sweden" : "stockholm"}
-    x = input('Столицу какой строны вы хотите вывести?')
+    x = input('Столицу какой страны вы хотите вывести?')
     #a
     print(strana)
     #b
